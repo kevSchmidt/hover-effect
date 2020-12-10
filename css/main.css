@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.container {
+    width: 30rem;
+    height: 25rem;
+    box-shadow: 0 4px 8px -2px rgba(0, 0, 0, 0.3);
+}
